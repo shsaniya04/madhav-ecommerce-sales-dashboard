@@ -98,4 +98,14 @@ The dataset contains:
 * Add real-time data integration
 * Implement sales forecasting (Time Series)
 * Deploy dashboard to Power BI Service
-* Add d
+* Add drill-through and tooltip enhancements
+
+🤝 Contributing
+
+Feel free to fork and enhance the dashboard!
+
+📬 Contact
+
+Actively looking for Data Analyst opportunities 🚀
+
+⭐ Star this repo if you found it useful!
